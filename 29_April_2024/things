@@ -1,3 +1,16 @@
+A: BLS signatures: https://github.com/filecoin-project/bls-signatures
+
+BLS signatures tutorials: https://www.youtube.com/watch?v=cVgJBdM5E2M
+
+Signature async: https://www.youtube.com/watch?v=4DFfZovCBB0
+
+
+A. Rollups: https://github.com/cartesi/rollups-node
+
 1. ZkRollup Tutorial: https://keen-noyce-c29dfa.netlify.app/
 
 2. RollupNC_tutorial: https://github.com/rollupnc/RollupNC_tutorial
+
+Install circom: https://docs.circom.io/getting-started/installation/#installing-dependencies
+
+
